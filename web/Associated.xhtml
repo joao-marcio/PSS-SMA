@@ -1,0 +1,71 @@
+<ui:composition template="/WEB-INF/templates/layout.xhtml"
+                xmlns="http://www.w3.org/1999/xhtml"
+                xmlns:f="http://java.sun.com/jsf/core"
+                xmlns:h="http://java.sun.com/jsf/html"
+                xmlns:ui="http://java.sun.com/jsf/facelets"
+                xmlns:p="http://primefaces.org/ui">
+    <ui:define name="content">
+        <h2 class="page-header">Was Associated With</h2>
+        <br/>
+        <h:form id="formPrincipal">
+            <p:messages id="messages" showDetail="true" autoUpdate="true" closable="true" />
+            <div align="center">
+                <p:dataTable var="list" value="#{wasAssociatedWithBean.agents}"
+                             id="table" emptyMessage="No records found"
+                             paginatorTemplate="{RowsPerPageDropdown} {CurrentPageReport}  {FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink} {LastPageLink}"
+                             paginator="true" rows="10" rowsPerPageTemplate="5,10,25,50,100,9999" style="width:100%">
+
+                    <p:column headerText="ID " sortBy="#{list.idWasAssociatedWith}" filterBy="#{list.idWasAssociatedWith}">
+
+                        <h:outputText value="#{list.idWasAssociatedWith}" />
+
+                    </p:column>
+                    <p:column headerText="Plan" sortBy="#{list.plan}" filterBy="#{list.plan}">
+
+                        <h:outputText value="#{list.plan}" />
+
+                    </p:column>
+
+                    <p:column headerText="Activity" sortBy="#{list.activity.idActivity}" filterBy="#{list.activity.idActivity}">
+
+                        <h:outputText value="#{list.activity.idActivity}" />
+
+                    </p:column>
+
+                    <p:column headerText="Agent" sortBy="#{list.agent.idAgent}" filterBy="#{list.agent.idAgent}">
+
+                        <h:outputText value="#{list.agent.idAgent}" />
+
+                    </p:column>
+
+
+                </p:dataTable>
+            </div>
+            <br/>
+            <div align="center">
+                <h3>Export page data</h3>
+
+                <h:commandLink id="excel">
+                    <p:graphicImage name="./images/exports/excel.png" />
+                    <p:dataExporter type="xls" target="tabelaActivity" fileName="activitys" postProcessor="#{reservasBean.postProcessXLS}" />
+                </h:commandLink>
+
+                <h:commandLink id="pdf">
+                    <p:graphicImage name="./images/exports/pdf.png" />
+                    <p:dataExporter type="pdf" target="tabelaActivity" fileName="activitys" preProcessor="#{reservasBean.preProcessPDF}" />
+                </h:commandLink>
+
+
+                <h:commandLink>
+                    <p:graphicImage name="./images/exports/csv.png" width="24"/>
+                    <p:dataExporter type="csv" target="tabelaActivity" fileName="activitys" />
+                </h:commandLink>
+
+                <h:commandLink>
+                    <p:graphicImage  name="./images/exports/xml.png" width="24"/>
+                    <p:dataExporter type="xml" target="tabelaActivity" fileName="activitys" />
+                </h:commandLink>
+            </div>
+        </h:form>
+    </ui:define>
+</ui:composition>

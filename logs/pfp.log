@@ -1,0 +1,361 @@
+01/09/17 12:14 [main] TRACE DAO:116 – Start Method
+01/09/17 12:14 [main] TRACE DAO:116 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – delete from ProvActivity
+01/09/17 12:14 [main] TRACE DAO:129 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:129 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provactivi0_.idActivity as idActivi2_2_, provactivi0_.endTime as endTime3_2_, provactivi0_.startTime as startTim4_2_, provactivi0_.description as descript5_2_, provactivi0_.DTYPE as DTYPE1_2_ from ProvActivity provactivi0_
+01/09/17 12:14 [main] TRACE DAO:31 – Start Method
+01/09/17 12:14 [main] TRACE DAO:31 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – insert into ProvActivity (endTime, startTime, description, DTYPE) values (?, ?, ?, 'ActivityPSS')
+01/09/17 12:14 [main] TRACE DAO:43 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:43 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provactivi0_.idActivity as idActivi2_2_, provactivi0_.endTime as endTime3_2_, provactivi0_.startTime as startTim4_2_, provactivi0_.description as descript5_2_, provactivi0_.DTYPE as DTYPE1_2_ from ProvActivity provactivi0_
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provactivi0_.idActivity as idActivi2_2_, provactivi0_.endTime as endTime3_2_, provactivi0_.startTime as startTim4_2_, provactivi0_.description as descript5_2_, provactivi0_.DTYPE as DTYPE1_2_ from ProvActivity provactivi0_
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provactivi0_.idActivity as idActivi2_2_, provactivi0_.endTime as endTime3_2_, provactivi0_.startTime as startTim4_2_, provactivi0_.description as descript5_2_, provactivi0_.DTYPE as DTYPE1_2_ from ProvActivity provactivi0_
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provactivi0_.idActivity as idActivi2_2_, provactivi0_.endTime as endTime3_2_, provactivi0_.startTime as startTim4_2_, provactivi0_.description as descript5_2_, provactivi0_.DTYPE as DTYPE1_2_ from ProvActivity provactivi0_
+01/09/17 12:14 [main] TRACE DAO:78 – Start Method
+01/09/17 12:14 [main] TRACE DAO:78 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select activityps0_.idActivity as idActivi2_2_0_, activityps0_.endTime as endTime3_2_0_, activityps0_.startTime as startTim4_2_0_, activityps0_.description as descript5_2_0_ from ProvActivity activityps0_ where activityps0_.idActivity=? and activityps0_.DTYPE='ActivityPSS'
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – delete from ProvActivity where idActivity=?
+01/09/17 12:14 [main] TRACE DAO:91 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:91 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provactivi0_.idActivity as idActivi2_2_, provactivi0_.endTime as endTime3_2_, provactivi0_.startTime as startTim4_2_, provactivi0_.description as descript5_2_, provactivi0_.DTYPE as DTYPE1_2_ from ProvActivity provactivi0_
+01/09/17 12:14 [main] TRACE DAO:31 – Start Method
+01/09/17 12:14 [main] TRACE DAO:31 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – insert into ProvActivity (endTime, startTime, description, DTYPE) values (?, ?, ?, 'ActivityPSS')
+01/09/17 12:14 [main] TRACE DAO:43 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:43 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:98 – Start Method
+01/09/17 12:14 [main] TRACE DAO:98 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – delete from ProvActivity where idActivity=?
+01/09/17 12:14 [main] TRACE DAO:110 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:110 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] TRACE DAO:63 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provactivi0_.idActivity as idActivi2_2_, provactivi0_.endTime as endTime3_2_, provactivi0_.startTime as startTim4_2_, provactivi0_.description as descript5_2_, provactivi0_.DTYPE as DTYPE1_2_ from ProvActivity provactivi0_
+01/09/17 12:14 [main] TRACE DAO:115 – Start Method
+01/09/17 12:14 [main] TRACE DAO:115 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – delete from ProvAgent
+01/09/17 12:14 [main] TRACE DAO:128 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:128 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_, provagent0_.typeAgent as typeAgen3_3_, provagent0_.name as name4_3_, provagent0_.DTYPE as DTYPE1_3_ from ProvAgent provagent0_
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:29 – Start Method
+01/09/17 12:14 [main] TRACE DAO:29 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – insert into ProvAgent (typeAgent, name, DTYPE) values (?, ?, 'AgentPSS')
+01/09/17 12:14 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_, provagent0_.typeAgent as typeAgen3_3_, provagent0_.name as name4_3_, provagent0_.DTYPE as DTYPE1_3_ from ProvAgent provagent0_
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_, provagent0_.typeAgent as typeAgen3_3_, provagent0_.name as name4_3_, provagent0_.DTYPE as DTYPE1_3_ from ProvAgent provagent0_
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_, provagent0_.typeAgent as typeAgen3_3_, provagent0_.name as name4_3_, provagent0_.DTYPE as DTYPE1_3_ from ProvAgent provagent0_
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_, provagent0_.typeAgent as typeAgen3_3_, provagent0_.name as name4_3_, provagent0_.DTYPE as DTYPE1_3_ from ProvAgent provagent0_
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:77 – Start Method
+01/09/17 12:14 [main] TRACE DAO:77 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select agentpss0_.idAgent as idAgent2_3_0_, agentpss0_.typeAgent as typeAgen3_3_0_, agentpss0_.name as name4_3_0_ from ProvAgent agentpss0_ where agentpss0_.idAgent=? and agentpss0_.DTYPE='AgentPSS'
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – delete from ProvAgent where idAgent=?
+01/09/17 12:14 [main] TRACE DAO:90 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:90 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_, provagent0_.typeAgent as typeAgen3_3_, provagent0_.name as name4_3_, provagent0_.DTYPE as DTYPE1_3_ from ProvAgent provagent0_
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:29 – Start Method
+01/09/17 12:14 [main] TRACE DAO:29 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – insert into ProvAgent (typeAgent, name, DTYPE) values (?, ?, 'AgentPSS')
+01/09/17 12:14 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:97 – Start Method
+01/09/17 12:14 [main] TRACE DAO:97 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – delete from ProvAgent where idAgent=?
+01/09/17 12:14 [main] TRACE DAO:109 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:109 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] TRACE DAO:61 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_, provagent0_.typeAgent as typeAgen3_3_, provagent0_.name as name4_3_, provagent0_.DTYPE as DTYPE1_3_ from ProvAgent provagent0_
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:70 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:115 – Start Method
+01/09/17 12:14 [main] TRACE DAO:115 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – delete from ProvEntity
+01/09/17 12:14 [main] TRACE DAO:128 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:128 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select proventity0_.idEntity as idEntity2_5_, proventity0_.price as price3_5_, proventity0_.title as title4_5_, proventity0_.DTYPE as DTYPE1_5_ from ProvEntity proventity0_
+01/09/17 12:14 [main] TRACE DAO:30 – Start Method
+01/09/17 12:14 [main] TRACE DAO:30 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – insert into ProvEntity (price, title, DTYPE) values (?, ?, 'EntityPSS')
+01/09/17 12:14 [main] TRACE DAO:42 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:42 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select proventity0_.idEntity as idEntity2_5_, proventity0_.price as price3_5_, proventity0_.title as title4_5_, proventity0_.DTYPE as DTYPE1_5_ from ProvEntity proventity0_
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select proventity0_.idEntity as idEntity2_5_, proventity0_.price as price3_5_, proventity0_.title as title4_5_, proventity0_.DTYPE as DTYPE1_5_ from ProvEntity proventity0_
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select proventity0_.idEntity as idEntity2_5_, proventity0_.price as price3_5_, proventity0_.title as title4_5_, proventity0_.DTYPE as DTYPE1_5_ from ProvEntity proventity0_
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select proventity0_.idEntity as idEntity2_5_, proventity0_.price as price3_5_, proventity0_.title as title4_5_, proventity0_.DTYPE as DTYPE1_5_ from ProvEntity proventity0_
+01/09/17 12:14 [main] TRACE DAO:77 – Start Method
+01/09/17 12:14 [main] TRACE DAO:77 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select entitypss0_.idEntity as idEntity2_5_0_, entitypss0_.price as price3_5_0_, entitypss0_.title as title4_5_0_ from ProvEntity entitypss0_ where entitypss0_.idEntity=? and entitypss0_.DTYPE='EntityPSS'
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – delete from ProvEntity where idEntity=?
+01/09/17 12:14 [main] TRACE DAO:90 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:90 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select proventity0_.idEntity as idEntity2_5_, proventity0_.price as price3_5_, proventity0_.title as title4_5_, proventity0_.DTYPE as DTYPE1_5_ from ProvEntity proventity0_
+01/09/17 12:14 [main] TRACE DAO:30 – Start Method
+01/09/17 12:14 [main] TRACE DAO:30 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – insert into ProvEntity (price, title, DTYPE) values (?, ?, 'EntityPSS')
+01/09/17 12:14 [main] TRACE DAO:42 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:42 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:97 – Start Method
+01/09/17 12:14 [main] TRACE DAO:97 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – delete from ProvEntity where idEntity=?
+01/09/17 12:14 [main] TRACE DAO:109 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:109 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select proventity0_.idEntity as idEntity2_5_, proventity0_.price as price3_5_, proventity0_.title as title4_5_, proventity0_.DTYPE as DTYPE1_5_ from ProvEntity proventity0_
+01/09/17 12:14 [main] TRACE DAO:115 – Start Method
+01/09/17 12:14 [main] TRACE DAO:115 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – delete from ProvAgent
+01/09/17 12:14 [main] TRACE DAO:128 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:128 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provwasass0_.idWasAssociatedWith as idWasAss1_12_, provwasass0_.activity_idActivity as activity3_12_, provwasass0_.agent_idAgent as agent_id4_12_, provwasass0_.plan as plan2_12_ from ProvWasAssociatedWith provwasass0_
+01/09/17 12:14 [main] TRACE DAO:31 – Start Method
+01/09/17 12:14 [main] TRACE DAO:31 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – insert into ProvActivity (endTime, startTime, description, DTYPE) values (?, ?, ?, 'ActivityPSS')
+01/09/17 12:14 [main] TRACE DAO:43 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:43 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:29 – Start Method
+01/09/17 12:14 [main] TRACE DAO:29 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – insert into ProvAgent (typeAgent, name, DTYPE) values (?, ?, 'AgentPSS')
+01/09/17 12:14 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:30 – Start Method
+01/09/17 12:14 [main] TRACE DAO:30 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – insert into ProvWasAssociatedWith (activity_idActivity, agent_idAgent, plan) values (?, ?, ?)
+01/09/17 12:14 [main] TRACE DAO:42 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:42 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provwasass0_.idWasAssociatedWith as idWasAss1_12_, provwasass0_.activity_idActivity as activity3_12_, provwasass0_.agent_idAgent as agent_id4_12_, provwasass0_.plan as plan2_12_ from ProvWasAssociatedWith provwasass0_
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provactivi0_.idActivity as idActivi2_2_0_, provactivi0_.endTime as endTime3_2_0_, provactivi0_.startTime as startTim4_2_0_, provactivi0_.description as descript5_2_0_, provactivi0_.DTYPE as DTYPE1_2_0_ from ProvActivity provactivi0_ where provactivi0_.idActivity=?
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_0_, provagent0_.typeAgent as typeAgen3_3_0_, provagent0_.name as name4_3_0_, provagent0_.DTYPE as DTYPE1_3_0_ from ProvAgent provagent0_ where provagent0_.idAgent=?
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provwasass0_.idWasAssociatedWith as idWasAss1_12_, provwasass0_.activity_idActivity as activity3_12_, provwasass0_.agent_idAgent as agent_id4_12_, provwasass0_.plan as plan2_12_ from ProvWasAssociatedWith provwasass0_
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provactivi0_.idActivity as idActivi2_2_0_, provactivi0_.endTime as endTime3_2_0_, provactivi0_.startTime as startTim4_2_0_, provactivi0_.description as descript5_2_0_, provactivi0_.DTYPE as DTYPE1_2_0_ from ProvActivity provactivi0_ where provactivi0_.idActivity=?
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_0_, provagent0_.typeAgent as typeAgen3_3_0_, provagent0_.name as name4_3_0_, provagent0_.DTYPE as DTYPE1_3_0_ from ProvAgent provagent0_ where provagent0_.idAgent=?
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provwasass0_.idWasAssociatedWith as idWasAss1_12_, provwasass0_.activity_idActivity as activity3_12_, provwasass0_.agent_idAgent as agent_id4_12_, provwasass0_.plan as plan2_12_ from ProvWasAssociatedWith provwasass0_
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provactivi0_.idActivity as idActivi2_2_0_, provactivi0_.endTime as endTime3_2_0_, provactivi0_.startTime as startTim4_2_0_, provactivi0_.description as descript5_2_0_, provactivi0_.DTYPE as DTYPE1_2_0_ from ProvActivity provactivi0_ where provactivi0_.idActivity=?
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_0_, provagent0_.typeAgent as typeAgen3_3_0_, provagent0_.name as name4_3_0_, provagent0_.DTYPE as DTYPE1_3_0_ from ProvAgent provagent0_ where provagent0_.idAgent=?
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provwasass0_.idWasAssociatedWith as idWasAss1_12_, provwasass0_.activity_idActivity as activity3_12_, provwasass0_.agent_idAgent as agent_id4_12_, provwasass0_.plan as plan2_12_ from ProvWasAssociatedWith provwasass0_
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provactivi0_.idActivity as idActivi2_2_0_, provactivi0_.endTime as endTime3_2_0_, provactivi0_.startTime as startTim4_2_0_, provactivi0_.description as descript5_2_0_, provactivi0_.DTYPE as DTYPE1_2_0_ from ProvActivity provactivi0_ where provactivi0_.idActivity=?
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_0_, provagent0_.typeAgent as typeAgen3_3_0_, provagent0_.name as name4_3_0_, provagent0_.DTYPE as DTYPE1_3_0_ from ProvAgent provagent0_ where provagent0_.idAgent=?
+01/09/17 12:14 [main] TRACE DAO:77 – Start Method
+01/09/17 12:14 [main] TRACE DAO:77 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provwasass0_.idWasAssociatedWith as idWasAss1_12_0_, provwasass0_.activity_idActivity as activity3_12_0_, provwasass0_.agent_idAgent as agent_id4_12_0_, provwasass0_.plan as plan2_12_0_, provactivi1_.idActivity as idActivi2_2_1_, provactivi1_.endTime as endTime3_2_1_, provactivi1_.startTime as startTim4_2_1_, provactivi1_.description as descript5_2_1_, provactivi1_.DTYPE as DTYPE1_2_1_, provagent2_.idAgent as idAgent2_3_2_, provagent2_.typeAgent as typeAgen3_3_2_, provagent2_.name as name4_3_2_, provagent2_.DTYPE as DTYPE1_3_2_ from ProvWasAssociatedWith provwasass0_ left outer join ProvActivity provactivi1_ on provwasass0_.activity_idActivity=provactivi1_.idActivity left outer join ProvAgent provagent2_ on provwasass0_.agent_idAgent=provagent2_.idAgent where provwasass0_.idWasAssociatedWith=?
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – delete from ProvWasAssociatedWith where idWasAssociatedWith=?
+01/09/17 12:14 [main] TRACE DAO:90 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:90 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provwasass0_.idWasAssociatedWith as idWasAss1_12_, provwasass0_.activity_idActivity as activity3_12_, provwasass0_.agent_idAgent as agent_id4_12_, provwasass0_.plan as plan2_12_ from ProvWasAssociatedWith provwasass0_
+01/09/17 12:14 [main] TRACE DAO:31 – Start Method
+01/09/17 12:14 [main] TRACE DAO:31 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – insert into ProvActivity (endTime, startTime, description, DTYPE) values (?, ?, ?, 'ActivityPSS')
+01/09/17 12:14 [main] TRACE DAO:43 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:43 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:29 – Start Method
+01/09/17 12:14 [main] TRACE DAO:29 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – insert into ProvAgent (typeAgent, name, DTYPE) values (?, ?, 'AgentPSS')
+01/09/17 12:14 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:30 – Start Method
+01/09/17 12:14 [main] TRACE DAO:30 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – insert into ProvWasAssociatedWith (activity_idActivity, agent_idAgent, plan) values (?, ?, ?)
+01/09/17 12:14 [main] TRACE DAO:42 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:42 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:97 – Start Method
+01/09/17 12:14 [main] TRACE DAO:97 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – delete from ProvWasAssociatedWith where idWasAssociatedWith=?
+01/09/17 12:14 [main] TRACE DAO:109 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:109 – Ended Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] TRACE DAO:62 – Start Method
+01/09/17 12:14 [main] DEBUG org.hibernate.SQL:109 – select provwasass0_.idWasAssociatedWith as idWasAss1_12_, provwasass0_.activity_idActivity as activity3_12_, provwasass0_.agent_idAgent as agent_id4_12_, provwasass0_.plan as plan2_12_ from ProvWasAssociatedWith provwasass0_
+01/09/17 12:15 [main] TRACE DAO:114 – Start Method
+01/09/17 12:15 [main] TRACE DAO:114 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – delete from ProvAgent
+01/09/17 12:15 [main] TRACE DAO:127 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:127 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select provwasatt0_.idWasAttributedTo as idWasAtt1_14_, provwasatt0_.agent_idAgent as agent_id2_14_, provwasatt0_.entity_idEntity as entity_i3_14_ from ProvWasAttributedTo provwasatt0_
+01/09/17 12:15 [main] TRACE DAO:30 – Start Method
+01/09/17 12:15 [main] TRACE DAO:30 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – insert into ProvEntity (price, title, DTYPE) values (?, ?, 'EntityPSS')
+01/09/17 12:15 [main] TRACE DAO:42 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:42 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:29 – Start Method
+01/09/17 12:15 [main] TRACE DAO:29 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – insert into ProvAgent (typeAgent, name, DTYPE) values (?, ?, 'AgentPSS')
+01/09/17 12:15 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:29 – Start Method
+01/09/17 12:15 [main] TRACE DAO:29 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – insert into ProvWasAttributedTo (agent_idAgent, entity_idEntity) values (?, ?)
+01/09/17 12:15 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select provwasatt0_.idWasAttributedTo as idWasAtt1_14_, provwasatt0_.agent_idAgent as agent_id2_14_, provwasatt0_.entity_idEntity as entity_i3_14_ from ProvWasAttributedTo provwasatt0_
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_0_, provagent0_.typeAgent as typeAgen3_3_0_, provagent0_.name as name4_3_0_, provagent0_.DTYPE as DTYPE1_3_0_ from ProvAgent provagent0_ where provagent0_.idAgent=?
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select proventity0_.idEntity as idEntity2_5_0_, proventity0_.price as price3_5_0_, proventity0_.title as title4_5_0_, proventity0_.DTYPE as DTYPE1_5_0_ from ProvEntity proventity0_ where proventity0_.idEntity=?
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select provwasatt0_.idWasAttributedTo as idWasAtt1_14_, provwasatt0_.agent_idAgent as agent_id2_14_, provwasatt0_.entity_idEntity as entity_i3_14_ from ProvWasAttributedTo provwasatt0_
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_0_, provagent0_.typeAgent as typeAgen3_3_0_, provagent0_.name as name4_3_0_, provagent0_.DTYPE as DTYPE1_3_0_ from ProvAgent provagent0_ where provagent0_.idAgent=?
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select proventity0_.idEntity as idEntity2_5_0_, proventity0_.price as price3_5_0_, proventity0_.title as title4_5_0_, proventity0_.DTYPE as DTYPE1_5_0_ from ProvEntity proventity0_ where proventity0_.idEntity=?
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select provwasatt0_.idWasAttributedTo as idWasAtt1_14_, provwasatt0_.agent_idAgent as agent_id2_14_, provwasatt0_.entity_idEntity as entity_i3_14_ from ProvWasAttributedTo provwasatt0_
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_0_, provagent0_.typeAgent as typeAgen3_3_0_, provagent0_.name as name4_3_0_, provagent0_.DTYPE as DTYPE1_3_0_ from ProvAgent provagent0_ where provagent0_.idAgent=?
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select proventity0_.idEntity as idEntity2_5_0_, proventity0_.price as price3_5_0_, proventity0_.title as title4_5_0_, proventity0_.DTYPE as DTYPE1_5_0_ from ProvEntity proventity0_ where proventity0_.idEntity=?
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select provwasatt0_.idWasAttributedTo as idWasAtt1_14_, provwasatt0_.agent_idAgent as agent_id2_14_, provwasatt0_.entity_idEntity as entity_i3_14_ from ProvWasAttributedTo provwasatt0_
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select provagent0_.idAgent as idAgent2_3_0_, provagent0_.typeAgent as typeAgen3_3_0_, provagent0_.name as name4_3_0_, provagent0_.DTYPE as DTYPE1_3_0_ from ProvAgent provagent0_ where provagent0_.idAgent=?
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select proventity0_.idEntity as idEntity2_5_0_, proventity0_.price as price3_5_0_, proventity0_.title as title4_5_0_, proventity0_.DTYPE as DTYPE1_5_0_ from ProvEntity proventity0_ where proventity0_.idEntity=?
+01/09/17 12:15 [main] TRACE DAO:76 – Start Method
+01/09/17 12:15 [main] TRACE DAO:76 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select provwasatt0_.idWasAttributedTo as idWasAtt1_14_0_, provwasatt0_.agent_idAgent as agent_id2_14_0_, provwasatt0_.entity_idEntity as entity_i3_14_0_, provagent1_.idAgent as idAgent2_3_1_, provagent1_.typeAgent as typeAgen3_3_1_, provagent1_.name as name4_3_1_, provagent1_.DTYPE as DTYPE1_3_1_, proventity2_.idEntity as idEntity2_5_2_, proventity2_.price as price3_5_2_, proventity2_.title as title4_5_2_, proventity2_.DTYPE as DTYPE1_5_2_ from ProvWasAttributedTo provwasatt0_ left outer join ProvAgent provagent1_ on provwasatt0_.agent_idAgent=provagent1_.idAgent left outer join ProvEntity proventity2_ on provwasatt0_.entity_idEntity=proventity2_.idEntity where provwasatt0_.idWasAttributedTo=?
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – delete from ProvWasAttributedTo where idWasAttributedTo=?
+01/09/17 12:15 [main] TRACE DAO:89 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:89 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select provwasatt0_.idWasAttributedTo as idWasAtt1_14_, provwasatt0_.agent_idAgent as agent_id2_14_, provwasatt0_.entity_idEntity as entity_i3_14_ from ProvWasAttributedTo provwasatt0_
+01/09/17 12:15 [main] TRACE DAO:30 – Start Method
+01/09/17 12:15 [main] TRACE DAO:30 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – insert into ProvEntity (price, title, DTYPE) values (?, ?, 'EntityPSS')
+01/09/17 12:15 [main] TRACE DAO:42 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:42 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:29 – Start Method
+01/09/17 12:15 [main] TRACE DAO:29 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – insert into ProvAgent (typeAgent, name, DTYPE) values (?, ?, 'AgentPSS')
+01/09/17 12:15 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:29 – Start Method
+01/09/17 12:15 [main] TRACE DAO:29 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – insert into ProvWasAttributedTo (agent_idAgent, entity_idEntity) values (?, ?)
+01/09/17 12:15 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:41 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:96 – Start Method
+01/09/17 12:15 [main] TRACE DAO:96 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – delete from ProvWasAttributedTo where idWasAttributedTo=?
+01/09/17 12:15 [main] TRACE DAO:108 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:108 – Ended Method
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] TRACE DAO:61 – Start Method
+01/09/17 12:15 [main] DEBUG org.hibernate.SQL:109 – select provwasatt0_.idWasAttributedTo as idWasAtt1_14_, provwasatt0_.agent_idAgent as agent_id2_14_, provwasatt0_.entity_idEntity as entity_i3_14_ from ProvWasAttributedTo provwasatt0_
+13/03/23 20:23 [s1] TRACE DAO:29 – Start Method
+13/03/23 20:23 [s1] TRACE DAO:29 – Start Method
+13/03/23 20:23 [s1] TRACE DAO:41 – Ended Method
+13/03/23 20:23 [s1] TRACE DAO:41 – Ended Method
+13/03/23 20:23 [s2] TRACE DAO:29 – Start Method
+13/03/23 20:23 [s2] TRACE DAO:29 – Start Method
+13/03/23 20:23 [s2] TRACE DAO:41 – Ended Method
+13/03/23 20:23 [s2] TRACE DAO:41 – Ended Method
+13/03/23 20:23 [b1] TRACE DAO:29 – Start Method
+13/03/23 20:23 [b1] TRACE DAO:29 – Start Method
+13/03/23 20:23 [b1] TRACE DAO:41 – Ended Method
+13/03/23 20:23 [b1] TRACE DAO:41 – Ended Method
+13/03/23 20:23 [b2] TRACE DAO:29 – Start Method
+13/03/23 20:23 [b2] TRACE DAO:29 – Start Method
+13/03/23 20:23 [b2] TRACE DAO:41 – Ended Method
+13/03/23 20:23 [b2] TRACE DAO:41 – Ended Method
+13/03/23 20:23 [s1] TRACE DAO:29 – Start Method
+13/03/23 20:23 [s1] TRACE DAO:29 – Start Method
+13/03/23 20:23 [s1] TRACE DAO:41 – Ended Method
+13/03/23 20:23 [s1] TRACE DAO:41 – Ended Method
+13/03/23 20:23 [s2] TRACE DAO:29 – Start Method
+13/03/23 20:23 [s2] TRACE DAO:29 – Start Method
+13/03/23 20:23 [s2] TRACE DAO:41 – Ended Method
+13/03/23 20:23 [s2] TRACE DAO:41 – Ended Method
+13/03/23 20:24 [b1] TRACE DAO:29 – Start Method
+13/03/23 20:24 [b1] TRACE DAO:29 – Start Method
+13/03/23 20:24 [b1] TRACE DAO:41 – Ended Method
+13/03/23 20:24 [b1] TRACE DAO:41 – Ended Method
+13/03/23 20:24 [b2] TRACE DAO:29 – Start Method
+13/03/23 20:24 [b2] TRACE DAO:29 – Start Method
+13/03/23 20:24 [b2] TRACE DAO:41 – Ended Method
+13/03/23 20:24 [b2] TRACE DAO:41 – Ended Method
+13/03/23 20:24 [s1] TRACE DAO:29 – Start Method
+13/03/23 20:24 [s1] TRACE DAO:29 – Start Method
+13/03/23 20:24 [s1] TRACE DAO:41 – Ended Method
+13/03/23 20:24 [s1] TRACE DAO:41 – Ended Method
+13/03/23 20:24 [s2] TRACE DAO:29 – Start Method
+13/03/23 20:24 [s2] TRACE DAO:29 – Start Method
+13/03/23 20:24 [s2] TRACE DAO:41 – Ended Method
+13/03/23 20:24 [s2] TRACE DAO:41 – Ended Method
+13/03/23 20:25 [b1] TRACE DAO:29 – Start Method
+13/03/23 20:25 [b1] TRACE DAO:29 – Start Method
+13/03/23 20:25 [b1] TRACE DAO:41 – Ended Method
+13/03/23 20:25 [b1] TRACE DAO:41 – Ended Method
+13/03/23 20:25 [b2] TRACE DAO:29 – Start Method
+13/03/23 20:25 [b2] TRACE DAO:29 – Start Method
+13/03/23 20:25 [b2] TRACE DAO:41 – Ended Method
+13/03/23 20:25 [b2] TRACE DAO:41 – Ended Method
+13/03/23 20:25 [s1] TRACE DAO:29 – Start Method
+13/03/23 20:25 [s1] TRACE DAO:29 – Start Method
+13/03/23 20:25 [s1] TRACE DAO:41 – Ended Method
+13/03/23 20:25 [s1] TRACE DAO:41 – Ended Method
+13/03/23 20:27 [s1] TRACE DAO:29 – Start Method
+13/03/23 20:27 [s1] TRACE DAO:29 – Start Method
+13/03/23 20:27 [s1] TRACE DAO:41 – Ended Method
+13/03/23 20:27 [s1] TRACE DAO:41 – Ended Method

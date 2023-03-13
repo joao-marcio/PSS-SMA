@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AntConfiguration">
+    <buildFile url="file://$PROJECT_DIR$/build.xml">
+      <properties>
+        <property name="j2ee.server.home" value="http://localhost/" />
+        <property name="libs.CopyLibs.classpath" value="C:\Users\natan\IdeaProjects\PSS-SMA\lib\org-netbeans-modules-java-j2seproject-copylibstask.jar" />
+        <property name="libs.MySQLDriver.classpath" value="C:\Users\natan\IdeaProjects\PSS-SMA\lib\com.mysql.jdbc_5.1.5.jar" />
+        <property name="libs.primefaces.classpath" value="C:\Users\natan\IdeaProjects\PSS-SMA\lib\primefaces-3.5.jar" />
+        <property name="libs.jsf20.classpath" value="C:\Users\natan\IdeaProjects\PSS-SMA\lib\javax.faces-api-2.0.jar" />
+        <property name="libs.hibernate4-persistence.classpath" value="C:\Users\natan\IdeaProjects\PSS-SMA\lib\hibernate4-persistence.jar" />
+      </properties>
+    </buildFile>
+  </component>
+</project>

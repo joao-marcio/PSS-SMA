@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com.lowagie.text-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/com.mysql.jdbc_5.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/FrameworkProvW3C.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jade.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.faces-api-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence_2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org-netbeans-modules-java-j2seproject-copylibstask.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.10.1-20140818.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/primefaces-3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hibernate4-persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-3.0.0.v201112011016.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hibernate-3.2.0.ga-modified.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

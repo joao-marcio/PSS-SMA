@@ -1,0 +1,22 @@
+<ui:composition 
+    xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:f="http://java.sun.com/jsf/core"
+    xmlns:h="http://java.sun.com/jsf/html"
+    xmlns:ui="http://java.sun.com/jsf/facelets"
+    xmlns:p="http://primefaces.org/ui">
+    <header>
+        <h1>PFP+SMA</h1>
+        <h:form>  
+            <p:menubar>
+                <p:menuitem value="Start" icon="ui-icon-home" url="/faces/index.xhtml" />
+                <p:submenu label="Queries" icon="ui-icon-print">
+                    <p:menuitem value="Agents" icon="ui-icon-print" url="/faces/Agents.xhtml"/>
+                    <p:menuitem value="Entities" icon="ui-icon-print" url="/faces/Entities.xhtml"/>
+                    <p:menuitem value="Activities" icon="ui-icon-print" url="/faces/Activities.xhtml"/>
+                    <p:menuitem value="Attributed" icon="ui-icon-print" url="/faces/Attributed.xhtml"/>
+                    <p:menuitem value="Associated" icon="ui-icon-print" url="/faces/Associated.xhtml"/>
+                </p:submenu>
+            </p:menubar>
+        </h:form>
+    </header>
+</ui:composition>
